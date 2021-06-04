@@ -1,3 +1,13 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ministry of Data"
+theme = "npq"
+
+[params]
+  author = "Ministry of Data"
+  description = "Ministry of Data"
+  keywords = "Ministry of Data"
+  useAvatar = true
+  microBlogSection = "posts"
+  displayMicroBlog = false
+  displayRecent = true
